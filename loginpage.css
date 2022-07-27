@@ -272,7 +272,7 @@
 			font-family: 'Tiro Tamil', serif;
 			background-color: black !important;
 			color: white !important;
-			text-align: left !important;
+			text-align: center !important;
 			font-weight: bolder;
 			font-size: 25px !important;
 			border: 2px solid black !important;
@@ -284,7 +284,7 @@
 			color: white;
 			font-weight: bolder;
 			font-size: 25px !important;
-			text-align: left !important;
+			text-align: center !important;
                         margin-top: 0;
 		}
 
